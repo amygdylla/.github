@@ -7,7 +7,7 @@
 
 Your business is unique. Your technology should be too.
 
-[**Website**](https://amygdylla.tech) &nbsp;·&nbsp; [**Email**](mailto:contact@amygdylla.tech) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/company/117664260/) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/amygdylla.solutions) &nbsp;·&nbsp; [**X**](https://x.com/amygdylla_HQ)
+[**Website**](https://amygdylla.tech) &nbsp;·&nbsp; [**Email**](mailto:contact@amygdylla.tech) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/company/amygdylla) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/amygdylla.solutions) &nbsp;·&nbsp; [**X**](https://x.com/amygdylla_HQ)
 
 </div>
 

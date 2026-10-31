@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your logo (geometric mark + wordmark). Keep ~320px wide. -->
-<img src="profile/logo.jpeg" alt="Amygdylla Solutions" width="320" />
+<img src="logo.jpeg" alt="Amygdylla Solutions" width="320" />
 
 ### Technology, shaped around you.
 
